@@ -1,4 +1,4 @@
-This is a simple Python Pandas Project 
+This is a simple Python Project 
 
 
 ![alt text](https://www.festivalclaca.cat/imgfv/m/249-2495597_pixel-computer-computer-pixel-art-png.png)
